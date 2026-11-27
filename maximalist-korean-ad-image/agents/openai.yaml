@@ -1,0 +1,4 @@
+interface:
+  display_name: "개킹받는 한국 광고 이미지"
+  short_description: "금박 한글과 네온 폭죽으로 꽉 채우는 초대형 한국 광고 포스터"
+  default_prompt: "$maximalist-korean-ad-image 월요일 출근을 초대형 글로벌 VIP 행사처럼 1:1 광고 이미지로 만들어줘."
